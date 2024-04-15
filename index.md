@@ -1,3 +1,4 @@
 ---
-title: The lazy engineer
+layout: home
+background: ""
 ---
